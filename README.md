@@ -61,4 +61,4 @@ The lab script are in [Lab](./Lab).
 
 ## YAML Reference Documentation
 
-The [YAML reference documentation](https://github.com/dsccommunity/CommonTasks/blob/dev/doc/README.adoc) is located in the ./doc subfolder of the [CommonTasks](https://github.com/dsccommunity/CommonTasks) repository.
+The [YAML reference documentation](https://github.com/dsccommunity/CommonTasks/blob/dev/doc/README.adoc) is located in the (./doc) subfolder of the [CommonTasks](https://github.com/dsccommunity/CommonTasks) repository.
